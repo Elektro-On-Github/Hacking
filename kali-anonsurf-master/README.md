@@ -5,3 +5,9 @@ Questo tool puó funzionare su tutti gli OS Linux, alcuni comandi potrebbero non
 Questo tool é essenziale per fare Hacking perché va a camuffare il proprio indirizzo IP e puó essere usato come VPN
 ====================================================================================================================
 Il traffico dei dati attraversa i server TOR
+_______________________________________________________________________________
+COME SI INSTALLA:
+
+DirectoryDiAnonsurf> sudo ./installer.sh
+________________________________________________________________________________
+Una volta fatto bisogna eseguire il tutto ;)
